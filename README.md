@@ -27,11 +27,11 @@
 # ⚒️ Tools:
 <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px"> <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">      
 
- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGpt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ [![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynV&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Github Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=IOS-Calculator-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/IOS-Calculator-WinForm.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=Anket-Task-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynV&repo=IOS-Calculator-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/IOS-Calculator-WinForm.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynV&repo=Anket-Task-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
 
 
 
